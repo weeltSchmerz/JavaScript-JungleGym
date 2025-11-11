@@ -1,5 +1,7 @@
 // String
 const firstName = 'Sara';
+//const output = firstName;
+//console.log(output, typeof output);
 
 // Number
 const age = 30;
@@ -32,7 +34,6 @@ const person = {
 function sayHello() {
   console.log('Hello');
 }
-
 const output = sayHello;
 
 console.log(output, typeof output);
